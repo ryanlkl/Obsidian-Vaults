@@ -1,0 +1,4 @@
+- [[Home Page]]
+- [[Browse]]
+- [[Profile]]
+- [[Store]]

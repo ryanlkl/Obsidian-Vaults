@@ -1,0 +1,1 @@
+Used in an unsorted array but you want to know the **kth** value in an order. **Quickselect** also relies on [[Quick Sort#Partitioning|partitioning]] and is a "hybrid" between [[Quick Sort]] and [[Searching Algorithms#^a8f551]]
