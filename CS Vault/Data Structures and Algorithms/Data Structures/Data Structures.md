@@ -1,4 +1,5 @@
 - [[Arrays]]
+- [[Matrix]]
 - [[Ordered Arrays]]
 - [[Hash Tables]]
 - [[Sets]]

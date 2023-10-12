@@ -11,3 +11,11 @@ The purpose of the **web application** is to allow users to locate nearby **seco
 **[[Users]]**
 **[[Pages]]**
 **[[Features]]**
+
+### Diagram
+``` mermaid
+graph TD
+
+id1(("HomePage")) --> id2(("Log In/Sign Up"))
+id1(("HomePage")) --> id3(("Map"))
+```

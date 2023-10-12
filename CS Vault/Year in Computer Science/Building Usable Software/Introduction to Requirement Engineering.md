@@ -164,7 +164,6 @@ Translating the information during requirements analysis into a **document** tha
 - **Structural natural language**: Follow a standard form or template where field provide specific aspects of the requirements
 - **Graphical models**: Use to define functional requirements
 - **Formal languages**: examples are Abstract State Machines (ASMs), Alloy, B-method, Z-method
-
 ##### Structured Specification
 
 ![[Pasted image 20231002191853.png]]

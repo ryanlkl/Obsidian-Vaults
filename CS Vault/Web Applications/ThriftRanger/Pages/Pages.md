@@ -2,3 +2,4 @@
 - [[Browse]]
 - [[Profile]]
 - [[Store]]
+- [[Log In Page]]

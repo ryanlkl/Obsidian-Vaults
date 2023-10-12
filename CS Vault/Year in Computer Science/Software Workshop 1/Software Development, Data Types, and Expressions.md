@@ -175,3 +175,6 @@ Then include statements like:
 >>> python3 scriptName.py
 ```
 
+``` Python
+print("hello world")
+```
