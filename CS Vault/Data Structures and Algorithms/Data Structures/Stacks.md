@@ -27,7 +27,7 @@ class Stack():
 
 Despite not typically be used to store data on a long-term basis, it can be great tool to handle **temporary data** as part of various algorithms.
 ## Importance of Constrained Data Structures
-A stack and [[Queue|queue]] is a **constrained** data structure and are important for several reasons.
+A stack and [[Interview Prep/Queue/Queue|queue]] is a **constrained** data structure and are important for several reasons.
 #### Preventing bugs
 When using an array instead of a stack, if a programmer inadvertently writes code the removes items from the middle, the algorithm will break. By using the stack, we're forced to only remove items from the top as it is impossible to access the other data in the stack.
 #### Mental Model

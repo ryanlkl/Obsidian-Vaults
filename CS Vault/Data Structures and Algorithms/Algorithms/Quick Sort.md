@@ -78,7 +78,7 @@ class SortableArray:
 		return l
 ```
 # Quick Sort
-**Quick sort** is a combination of [[Recursion|recursion]] and partitions:
+**Quick sort** is a combination of [[CS Vault/Data Structures and Algorithms/Algorithms/Recursion|recursion]] and partitions:
 1. Partition the array, this moves the pivot to the correct location
 2. Treat the left and right sections as subarrays and use recursion
 3. When the subarray's length is 1 or 0 is when the recursion reaches its base case

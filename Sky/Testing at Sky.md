@@ -1,0 +1,3 @@
+- Use product specific requirements to ensure the product functions with the data
+- Checking that product meets all the requirements specified in the backlog
+	- The requirements are delivered to the squad

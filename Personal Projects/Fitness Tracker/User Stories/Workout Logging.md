@@ -1,0 +1,4 @@
+1. As a **user**, I want to **log my strength exercises** by entering sets, reps, and weight so that I can track my strength training progress.
+2. As a **user**, I want to **log my cardio exercises** by entering the duration, distance, and calories burned so that I can track my cardiovascular fitness.
+3. As a **user**, I want to **log flexibility exercises** by entering the duration of the stretch or the number of reps so that I can track my flexibility improvement.
+4. As a **user**, I want to **edit or delete a workout entry** so that I can correct any mistakes or remove workouts that I did not perform.

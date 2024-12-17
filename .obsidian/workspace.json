@@ -1,0 +1,235 @@
+{
+  "main": {
+    "id": "275d7bee12d25082",
+    "type": "split",
+    "children": [
+      {
+        "id": "9cb033a50a32da59",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c12f3d77bf4c787e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final year Project/GRN_BA_Ara/bee.cpp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "bee.cpp"
+            }
+          },
+          {
+            "id": "25f3bcab9d869802",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final year Project/GRN_BA_Ara/beesAlgorithm_GRN.cpp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "beesAlgorithm_GRN.cpp"
+            }
+          },
+          {
+            "id": "c62531ded93a1721",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Final year Project/GRN_BA_Ara/fitnessFunction.cpp.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "fitnessFunction.cpp"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1df46242b83a7d53",
+    "type": "split",
+    "children": [
+      {
+        "id": "cb14fd9031ed2579",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1ce12dee6f4ab5df",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "248c4a5868e5e365",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "23127781e38a125f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 278.5124969482422
+  },
+  "right": {
+    "id": "40875e9cde4351be",
+    "type": "split",
+    "children": [
+      {
+        "id": "28cdb0d854a6944b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5b0311a5f20209d1",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Final year Project/GRN_BA_Ara/bee.cpp.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for bee.cpp"
+            }
+          },
+          {
+            "id": "ca57f1ec54eda1d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Final year Project/GRN_BA_Ara/bee.cpp.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from bee.cpp"
+            }
+          },
+          {
+            "id": "6729b13dec7d513b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6a5cf6642f0c9210",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Final year Project/GRN_BA_Ara/bee.cpp.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of bee.cpp"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "1ce12dee6f4ab5df",
+  "lastOpenFiles": [
+    "Final year Project/GRN_BA_Ara/beesAlgorithm_GRN.cpp.md",
+    "Final year Project/GRN_BA_Ara/fitnessFunction.cpp.md",
+    "Final year Project/GRN_BA_Ara/bee.cpp.md",
+    "Final year Project/GRN_BA_Ara",
+    "Final year Project",
+    "Interview Prep/Sorting/Bubble Sort.md",
+    "Interview Prep/Sorting/Insertion Sort.md",
+    "Interview Prep/Sorting/Selection Sort.md",
+    "Personal Projects/Fitness Tracker/User Stories/Goals and Achievements.md",
+    "Interview Prep/Sorting",
+    "Software Engineering/Backend/FastAPI/Request Method Logic.md",
+    "Interview Prep/Tree Traversal/Tree Traversal.md",
+    "Interview Prep/Tree Traversal",
+    "Software Engineering/OOP/Abstraction.md",
+    "Software Engineering/OOP",
+    "Interview Prep/Recursion/Recursion.md",
+    "Software Engineering",
+    "Software Engineering/Frontend",
+    "Software Engineering/Backend",
+    "Databases",
+    "Software Engineering/Backend/Devops",
+    "Interview Prep/Heap/Heap.md",
+    "Interview Prep/Heap/Heaps.md",
+    "Interview Prep/Graphs/Graphs.md",
+    "Interview Prep/Pasted image 20241012135018.png",
+    "Interview Prep/Pasted image 20241012134918.png",
+    "Interview Prep/Hash Tables/Hash Tables.md",
+    "Interview Prep/Trees/Trees.md",
+    "Personal Projects/Job Application Helper/Job Application Helper.md",
+    "Interview Prep/Queue/Queue.md",
+    "Interview Prep/Stack/Stack.md",
+    "Interview Prep/Doubly Linked List/Doubly Linked List.md",
+    "Interview Prep/Linked Lists/Reverse a Linked List between 2 Indexes.md",
+    "Personal Projects/Fitness Tracker/Use Cases/Goals and Achievements.md",
+    "Personal Projects/Fitness Tracker/Use Cases/Workout Plans.md",
+    "Personal Projects/Fitness Tracker/Use Cases/Workout Logging.md",
+    "Personal Projects/Fitness Tracker/Use Cases/User Registration and Profile Management.md",
+    "Personal Projects/Fitness Tracker/Use Cases/Progress Tracking.md"
+  ]
+}

@@ -1,6 +1,6 @@
 - [[Operations]]
 - [[Dynamic Programming]]
-- [[Recursion]]
+- [[CS Vault/Data Structures and Algorithms/Algorithms/Recursion]]
 - [[Searching Algorithms]]
 - [[Sorting Algorithms]]
 - [[Two Pointers]]
